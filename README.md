@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Banner LinkedIn](https://github.com/user-attachments/assets/ec2da831-6407-4c91-ab98-17aca30dbd7c)
 
 <!--
 **LauraPiraneque/LauraPiraneque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
