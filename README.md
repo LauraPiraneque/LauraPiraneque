@@ -2,19 +2,21 @@
 <img src="https://github.com/user-attachments/assets/ec2da831-6407-4c91-ab98-17aca30dbd7c" alt="Banner">
 <p></p>
 <ul>
-    <li>🎓 Computer Engineering graduate (Bogotá D.C, Colombia)</li>
-    <li>💡 Learning Data Science and Machine Learning</li>
-    <li>📊 Currently working on interactive dashboards in Power BI</li>
-    <li>🔍 Open to exciting opportunities in the tech world</li>
+    <li>🎓 Computer Engineering graduate (Bogotá D.C, Colombia).</li>
+    <li>💡 Learning Data Science and Machine Learning.</li>
+    <li>📊 Currently working on data analysis projects (including dashboards, some clustering algorithms, etc).</li>
+    <li>🔍 Open to exciting opportunities in the tech world.</li>
 </ul>
 <h2>🛠️ Technologies & Tools</h2>
 <ul>
-    <li>💻 <strong>Languages:</strong> Python, SQL, JavaScript</li>
-    <li>📊 <strong>Data Analysis:</strong> Pandas, NumPy, Power BI</li>
-    <li>🗄️ <strong>Databases:</strong> PostgreSQL, MySQL</li>
-    <li>🚀 <strong>Others:</strong> Git, Databricks, Docker</li>
-<div class="badge">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
-</div>
+    <li>💻 <strong>Languages:</strong> Python, SQL, JavaScript.</li>
+    <li>📊 <strong>Data Analysis:</strong> Pandas, NumPy, Matplotlib, Power BI.</li>
+    <li>🗄️ <strong>Databases:</strong> PostgreSQL, MySQ.L</li>
+    <li>🚀 <strong>Others:</strong> Git, Databricks.</li>
+</ul>
+<h2>📬 Let's Connect!</h2>
+<ul>
+    <li><a href="https://www.linkedin.com/in/laura-juliana-piraneque-esquivel/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></li>
+    <li><a href="mailto:laurapiraneque14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a></li>
+</ul>
+<p style="text-align:center">💡 <em>Always curious, always learning!</em> 🚀</p>
