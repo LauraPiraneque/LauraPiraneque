@@ -4,7 +4,7 @@
 <ul>
     <li>🎓 Computer Engineering graduate (Bogotá D.C, Colombia).</li>
     <li>💡 Learning Data Science and Machine Learning.</li>
-    <li>📊 Currently working on data analysis projects (including dashboards, some clustering algorithms, etc).</li>
+    <li>📊 Currently working on Data Analysis projects (including dashboards, some clustering algorithms, etc).</li>
     <li>🔍 Open to exciting opportunities in the tech world.</li>
 </ul>
 <h2>🛠️ Technologies & Tools</h2>
