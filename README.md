@@ -17,6 +17,5 @@
 <h2>📬 Let's Connect!</h2>
 <ul>
     <li><a href="https://www.linkedin.com/in/laura-juliana-piraneque-esquivel/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></li>
-    <li><a href="mailto:laurapiraneque14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a></li>
 </ul>
 <p style="text-align:center">💡 <em>Always curious, always learning!</em> 🚀</p>
